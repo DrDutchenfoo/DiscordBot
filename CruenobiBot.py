@@ -3,7 +3,7 @@ import time
 from discord.ext import commands
 import discord
 import datetime
-TOKEN = "MTA4OTk1NTY5Mzg5OTAyMjM0Ng.Gi8Ha2.oJlQbRwPvNtwoPmXJ61fhBCPHYl7Fw-bc8hHDs"
+TOKEN = ""
 channel_id = 1090675209708765234
 #user = 1037095136989028455
 bot = commands.Bot(command_prefix="!")
