@@ -4,8 +4,6 @@ from discord.ext import commands
 import discord
 import datetime
 TOKEN = ""
-channel_id = 1090675209708765234
-#user = 1037095136989028455
 bot = commands.Bot(command_prefix="!")
 number = [1, 2, 3]
 choice = 0
